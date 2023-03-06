@@ -1,4 +1,8 @@
-# A Go client for the App Store Server API
+# appstore-go
+
+A Go client for the App Store Server API
+
+[![Go Report Card](https://goreportcard.com/badge/github.com/erictse/appstore-go)](https://goreportcard.com/report/github.com/erictse/appstore-go)
 
 The [App Store Server API](https://developer.apple.com/documentation/appstoreserverapi) returns
 data signed using the JSON Web Signature (JWS) spec. This client implementation abstracts away
